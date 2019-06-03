@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Inscription<h1>
-    <form method="post" action="connexion.php">
+    <form method="post" action="/inscription.php">
         <p>Username</p>
         <input type="text" name="Username">
         <p>email</p>
